@@ -20,11 +20,10 @@ ACOBOE trabaja ahora en Bosque Esperanza, x kilometros al este de El Carmen (5 h
 
 #### Mono Aullador
 
-El mono aullador (*Alouatta xx*) es [highly endangered](link), ... Dos grupos existen dentro del Bosque Esperanza.
-
+El mono aullador (*Alouatta palliata aequatorialis*) es [vulnerable](https://en.wikipedia.org/wiki/Ecuadorian_mantled_howler).
 
 #### Halcon dorsi-gris
-El halcon dorsi-gris (*genus species*) es [highly endangered](link). 
+El halcon dorsi-gris (*Pseudastur occidentalis*) es en [peligro de extincion](https://en.wikipedia.org/wiki/Grey-backed_Hawk). 
 
 [leer mas](../endangered-species.html)
 
