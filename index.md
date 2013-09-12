@@ -12,7 +12,7 @@ subtitle:
 ACOBOE es una asociacion dedicado a la conservacion de los bosques tropicales del Ecuador. ...
 
 
-<h3>Locations</h3>
+<h3>Sitios</h3>
 
 ACOBOE trabaja ahora en Bosque Esperanza, x kilometros al este de El Carmen (5 horas de Quito) en fragmentos de bosque humedo de zona costena del Ecuador. Estamos buscando fundos para comprar mas tierra en Manabi para augmentar nuestras esfuerzas para la conservacion. [leer mas](../sitios.html)
 
