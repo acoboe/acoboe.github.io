@@ -8,7 +8,7 @@ subtitle:
 <!--photo section-->
 
 
-<h2>Asociacion para la Conservacion de los Bosques Tropicales del Ecuador</h2>
+<h2>Asociación de Conservación y Restauración de los Bosques Tropicales del Ecuador</h2>
 ACOBOE es una asociacion dedicado a la conservacion de los bosques tropicales del Ecuador. ...
 
 
