@@ -18,7 +18,7 @@ El mono aullador es uno de los monos mas grandes de las Americas. Come un gran c
 
 
 
-### El Gavilán Dorsigrís (Gray-backed Hawk) | *Leucopternis occidentalis* | [En Peligro](http://www.iucnredlist.org/details/full/106003485/0))
+### El Gavilán Dorsigrís (Gray-backed Hawk) | *Leucopternis occidentalis* | [En Peligro](http://www.iucnredlist.org/details/full/106003485/0)
 
 ![](http://cdn2.arkive.org/media/97/97F3F2F8-2104-49F9-81C3-736F6DBDA30C/Presentation.Large/Grey-backed-hawk-spreading-wings.jpg)
 
