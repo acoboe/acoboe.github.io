@@ -10,7 +10,7 @@ subtitle:
 
 ### Mono Aullador (Ecuadorian Mantled Howler Monkey) | *Alouatta palliata ssp. aequatorialis* | [Vulnerable](http://www.iucnredlist.org/details/full/919/0)
 
-![](../assets/img/Allouataadulto_500px.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Allouataadulto_500px.jpg)
 
 **Fig. 1.** [Mantled Howler Monkey](https://commons.wikimedia.org/wiki/File%3AAllouataadulto_500px.jpg) by © [Leonardo C. Fleck](leonardofleck@yahoo.com.br) (Own work) [GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons
 
@@ -18,11 +18,9 @@ El mono aullador es uno de los monos mas grandes de las Americas. Come un gran c
 
 
 
-
-
 ### El Gavilán Dorsigrís (Gray-backed Hawk) | *Leucopternis occidentalis* | [En Peligro](http://www.iucnredlist.org/details/full/106003485/0))
 
-![](../assets/img/Grey-backed-hawk-spreading-wings.jpg)
+![](http://cdn2.arkive.org/media/97/97F3F2F8-2104-49F9-81C3-736F6DBDA30C/Presentation.Large/Grey-backed-hawk-spreading-wings.jpg)
 
 **Fig. 2.** [Gavilán Dorsigrís](http://www.arkive.org/grey-backed-hawk/leucopternis-occidentalis/image-G54606.html) by [Jon Hornbuckle](jonhornbuckle@yahoo.co.uk) via Wildscreen.
 
